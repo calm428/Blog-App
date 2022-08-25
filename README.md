@@ -45,15 +45,7 @@ In your browser, go to
 
 👤 **Anthony Mwenyo**
 
-- GitHub: [@mwenyoa](https://github.com/mwenyoa)
-- Twitter: [@anthony_mwenyo](https://twitter.com/phayte_p)
-- LinkedIn: [Anthony Mwenyo](https://linkedin.com/in/anthony-mwenyo)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/aimalamiri/Ruby-Catalog/issues).
+- GitHub: [@calm428](https://github.com/calm428)
 
 ## Show your support
 
